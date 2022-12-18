@@ -1,0 +1,61 @@
+.flag1, img{
+	width:100%;
+	object-fit:cover;
+}
+
+
+
+.card-body{
+	width:100%;
+}
+.cname{
+	margin:15 px 0;
+	text-align:centre;
+	font-size:24px;
+	text-transform:uppercase;
+	color:orange;
+}
+
+.c2, .c3, .c4, .c5, .c10, .c11, .c12, .c14{
+	margin:15 px 0;
+	text-align:centre;
+	font-size:24px;
+	text-transform:uppercase;
+	color:orange;
+
+}
+.flag1, img{
+	width:100%;
+    object-fit:cover;
+
+}
+.flag2, img{
+	width:100%;
+	object-fit:cover;
+
+}
+.flag7, img{
+	width:100%;
+	object-fit:cover;
+
+}
+.flag8, img{
+	width:100%;
+	object-fit:cover;
+}
+
+.flag10, img{
+	width:100%;
+	object-fit:cover;
+}
+
+.details{
+	text-transform:capitalize;
+	color:#747474;
+}
+
+.contrycontainer.card{transition=all.45 ease-in-out;}
+.contrycontainer.card:hover;
+.contrycontainer.card:focus;
+.contrycontainer.card:active;
+{transform:"scale"(1.01)transiately(-15px)};
